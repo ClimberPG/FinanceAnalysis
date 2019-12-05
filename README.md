@@ -1,5 +1,8 @@
 # FinanceAnalysis
- simple code in Msc pre-course
+simple code for FA
+
++ 3-factor model
++ FA analysis group project
 
 ## 3-factor model
 
