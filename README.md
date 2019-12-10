@@ -1,5 +1,7 @@
-# FinanceAnalysis
+# Financial Analysis
 simple code for FA
+
+Financial Analytic is the discovery, interpretation, and communication of meaningful patterns in financial data.
 
 + 3-factor model
 + FA analysis group project
